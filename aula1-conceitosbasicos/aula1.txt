@@ -6,4 +6,4 @@
     CSS
     Esse é o responsável pela estilização do site, se fosse na lógica do corpo humano, seria o fenótipo do site, suas características visualmente externas, ele cuida dessa parte.
 
-Em suma, html é forma, css é estilo.
+Em suma, html é forma e css é estilo.
