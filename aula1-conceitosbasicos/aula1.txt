@@ -7,3 +7,10 @@
     Esse é o responsável pela estilização do site, se fosse na lógica do corpo humano, seria o fenótipo do site, suas características visualmente externas, ele cuida dessa parte.
 
 Em suma, html é forma e css é estilo.
+
+O que são tags?
+    Tags são estruturas que possuem uma dada funcionalidade pré-determinada, como definir que tipo de estrutura é a que está sendo passada. As tags "envelopam" o conteúdo a ser exibido, aplicando essa função nele
+
+E os atributos?
+    Os atributos são inseridos nas tags de abertura, eles dão valores diferenciados aos elementos que estão sendo passados, por exemplo, a tag de <a></a>, é possível associar a ela um atributo que a dá uma característica de link.
+    Obs* Também são conhecidos como parâmetros.
