@@ -1,0 +1,9 @@
+<h1>Conceitos básicos</h1>
+
+<h2>HTML</h2>
+    <p>É responsável pela estruturação do site, o alicerce, se fossemos traçar o paralelo com o corpo humano ele seria o esqueleto, ou na genética, seria o genótipo, dada a característica de ordenar e organizar o que vai aonde e de que forma, contém as instruções..</p>
+    <br>
+<h2>CSS</h2>
+    <p>Esse é o responsável pela estilização do site, se fosse na lógica do corpo humano, seria o fenótipo do site, suas características visualmente externas, ele cuida dessa parte.</p>
+
+Em suma, html é forma, css é estilo.
