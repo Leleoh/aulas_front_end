@@ -14,3 +14,9 @@ O que são tags?
 E os atributos?
     Os atributos são inseridos nas tags de abertura, eles dão valores diferenciados aos elementos que estão sendo passados, por exemplo, a tag de <a></a>, é possível associar a ela um atributo que a dá uma característica de link.
     Obs* Também são conhecidos como parâmetros.
+
+Head?
+    Head é a parte do html que contém as informações sobre o funcionamento da página, ela não é exibida para o usuário.
+
+Body?
+    É no body que todo o código vai ser estruturado e exibido, começando na abertura e terminando logo antes do fechamento.
