@@ -7,3 +7,7 @@ Tags de Heading (<hx>): São tags para evidenciar títulos e subtítulos na pág
 Links e Parágrafos: Respectivamente expressos pelas tags <a></a> e <p></p>, o nome auto evidencia suas funções, e a tag para funcionar precisa sempre de um parâmetro de direcionamento.
 
 UL e OL: As famosas listas, sendo a primeira as sem ordanamento (Unordered), ou seja, aparecem como se fossem tópicos por bolinhas, sem hierarquia. Já as segundas possuem ordem (Ordered), elas são expressas em tópicos seguindo hierarquia, com números por exemplo.
+
+--CSS--
+O que é? É a parte responsável pela estilização do código, ela passa a partir do style as características que as tags e elementos terão.
+Ele pode ser utilizado tanto inline, dentro da própria tag, tanto como interno, no HEAD, e da maneira mais tradicional, que é usando um arquivo de estilo externo e ligando ele ao código.
