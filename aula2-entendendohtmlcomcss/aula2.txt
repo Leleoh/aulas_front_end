@@ -1,3 +1,9 @@
 Resumo aula 2
 
 Indentação: É basicamente uma boa prática para se codar, com ela você segue um padrão de escrita estabelecendo margens para demonstrações visuais, em termos mais simples ajuda a ver o que está dentro do que.
+
+Tags de Heading (<hx>): São tags para evidenciar títulos e subtítulos na página, porém elas possuem uma função mais profunda que é a de hierarquizar os conteúdos, quanto menos o heading (h1 por ex), maior será a sua hierarquia.
+
+Links e Parágrafos: Respectivamente expressos pelas tags <a></a> e <p></p>, o nome auto evidencia suas funções, e a tag para funcionar precisa sempre de um parâmetro de direcionamento.
+
+UL e OL: As famosas listas, sendo a primeira as sem ordanamento (Unordered), ou seja, aparecem como se fossem tópicos por bolinhas, sem hierarquia. Já as segundas possuem ordem (Ordered), elas são expressas em tópicos seguindo hierarquia, com números por exemplo.
