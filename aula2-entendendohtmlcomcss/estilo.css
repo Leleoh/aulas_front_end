@@ -1,11 +1,19 @@
-p {
-    color: red;
-    font-size: 15px;
+/*
+#ListaJogadores {
+    color: green;
 }
-a {
-    color: rgb(82, 232, 82);
+
+.Titulo{
+    color: aqua;
 }
-li{
-    font-weight: bold;
-    color: rgb(232, 143, 19);
+Também dá pra fazer essas alterações numa concatenação
+*/
+
+#ListaJogadores, .Titulo{
+    color: gold;
+    font-style: inherit;
+    font-size: 25px;
+}
+ol li{
+    color: blueviolet;
 }
