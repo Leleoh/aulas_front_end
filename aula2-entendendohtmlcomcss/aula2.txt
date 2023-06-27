@@ -11,3 +11,16 @@ UL e OL: As famosas listas, sendo a primeira as sem ordanamento (Unordered), ou 
 --CSS--
 O que é? É a parte responsável pela estilização do código, ela passa a partir do style as características que as tags e elementos terão.
 Ele pode ser utilizado tanto inline, dentro da própria tag, tanto como interno, no HEAD, e da maneira mais tradicional, que é usando um arquivo de estilo externo e ligando ele ao código.
+
+--Selecionando no CSS--
+No CSS externo, podemos usar algumas formas de seleção diferentes para que o efeito seja aplicado nos elementos do html, tais seleções se resumem a:
+    "#Elemento": Esse com a #, seleciona um elemento com um ID, esse id deve ser inserido a partir de um parâmetro no elemento desejado no código HTML, tal ID é exclusivo, só pode ser usado apenas uma vez em um objeto por vez.
+
+    ".Elemento": Esse com o . (ponto), é a classe, ela oferece uma versatilidade muito maior que o ID, pois pode ser aplicada várias vezes em diferentes elementos do HTML, cria-se uma classe, e aplica-se onde bem entender.
+
+    "Elemento": Aqui não tem mistério, apenas menciona-se o elemento que receberá as alterações, e será aplicado em TODOS os elementos do html do mesmo tipo.
+    Ex: h1, todos os h1 sofrerão as alterações
+
+    "#Elemento, .Elemento": É possível concatenar e selecionar mais de um para tomar a alteração numa chulapada só.
+
+    "ELEMENTO ELEMENTODENTRODESSE": Tipo uma LI de uma OL
