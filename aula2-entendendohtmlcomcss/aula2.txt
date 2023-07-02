@@ -28,3 +28,9 @@ No CSS externo, podemos usar algumas formas de seleção diferentes para que o e
 --Bordas--
 As bordas podem ser inseridas com a tag border, levando geralmente três características sendo elas TAMANHO/ESTILO/COR
 Também existe a border radius, responsável por conferir o arredondamento ao elemento borda.
+
+--Padding e Margin--
+Padding: Espaçamento interno do elemento, o quanto ele vai ter de espaço interno em relação as bordas. Ex: Um texto muito colado na borda pela parte de dentro toma um padding e para de ficar tão colado
+Margin: Espaçamento externo, afasta dos outros elementos externos a ele, criando espaço. Ex: Um parágrafo se afastando de um h1.
+    E o espaçamento padrão do BODY?
+     Antes de começar um projeto, é padrão dar um margin 0px no body, para acabar com esse espaço
