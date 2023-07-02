@@ -24,3 +24,7 @@ No CSS externo, podemos usar algumas formas de seleção diferentes para que o e
     "#Elemento, .Elemento": É possível concatenar e selecionar mais de um para tomar a alteração numa chulapada só.
 
     "ELEMENTO ELEMENTODENTRODESSE": Tipo uma LI de uma OL
+
+--Bordas--
+As bordas podem ser inseridas com a tag border, levando geralmente três características sendo elas TAMANHO/ESTILO/COR
+Também existe a border radius, responsável por conferir o arredondamento ao elemento borda.
