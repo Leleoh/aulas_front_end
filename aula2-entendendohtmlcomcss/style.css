@@ -33,3 +33,14 @@ h1{
     background-color: black;
     height: 100px;
 }
+.link{
+    color: red;
+    font-size: 30px;
+
+}
+.link:hover{
+    color: greenyellow;
+}
+.link:visited{
+    color: pink;
+}

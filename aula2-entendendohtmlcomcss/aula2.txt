@@ -34,3 +34,15 @@ Padding: Espaçamento interno do elemento, o quanto ele vai ter de espaço inter
 Margin: Espaçamento externo, afasta dos outros elementos externos a ele, criando espaço. Ex: Um parágrafo se afastando de um h1.
     E o espaçamento padrão do BODY?
      Antes de começar um projeto, é padrão dar um margin 0px no body, para acabar com esse espaço
+
+--Links--
+São expressos pela tag <a></a>, precisam do href, que é a referência de para onde o link vai mandar, e aceitam alguns outros parâmetros como "target", onde pode ser definido se o link vai abrir em uma nova guia; e "title" que define uma descrição ao passar o cursor em cima do link.
+    Dá pra definir algumas caraterísticas especiais aqui no a, como a formatação:
+    .link:"parâmetro"
+    Esse uso da tag permite que formatações sejam aplicadas desde que requisitos sejam cumpridos, como por exemplo passar o mouse em cima do link, como é no caso da hover
+    .link:hover{
+        x
+        y
+        z
+    }
+    Esse hover faz com que as alterações nele setadas sejam aplicadas apenas quando o mouse passar em cima do link.
