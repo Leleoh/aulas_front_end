@@ -46,3 +46,14 @@ São expressos pela tag <a></a>, precisam do href, que é a referência de para 
         z
     }
     Esse hover faz com que as alterações nele setadas sejam aplicadas apenas quando o mouse passar em cima do link.
+
+--Tags de Formatação de Texto--
+Strong: Negrito
+Em: Itálico
+Small: Letra menor
+Mark: Marca texto
+Del: Texto rasurado
+
+--Comentários no código--
+HTML: <!--COMENTÁRIO-->
+CSS: /*COMENTÁRIO*/
