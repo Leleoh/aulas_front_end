@@ -2,3 +2,5 @@ Resumo da Aula 3
 
 É possível também formatar os textos com CSS, e, na verdade, o CSS permite um leque muito maior de opções de estilização.
     Espaçamentos, Cores, Estilos, Letras, Fontes, Decorações, Firulas, Etc Etc Etc.
+
+Também existe como adicionar fontes externas no código css, e o site mais usado para isso geralmente é o Google Fonts, no qual deve-se escolher as fontes desejadas, e depois referenciar o link delas no head.
