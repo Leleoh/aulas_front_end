@@ -4,3 +4,10 @@ Resumo da Aula 3
     Espaçamentos, Cores, Estilos, Letras, Fontes, Decorações, Firulas, Etc Etc Etc.
 
 Também existe como adicionar fontes externas no código css, e o site mais usado para isso geralmente é o Google Fonts, no qual deve-se escolher as fontes desejadas, e depois referenciar o link delas no head.
+
+--Listas e Tabelas--
+Para criar tabelas, devemos usar a tag <table>, na qual receberá outras duas tags principais, a <tr>, que serão as linhas da tabela, e a <td>, que serão as colunas.
+
+--Formulários e Inputs--
+Usamos a tag <form> para criar um formulário, e os inúmeros inputs nós pegamos com a tag <input> mesmo.
+    Existem inúmeros tipos de inputs, e cada um deve ser usado com a devida finalidade e também podem receber parâmetros específicos.
